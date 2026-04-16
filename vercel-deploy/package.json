@@ -1,0 +1,11 @@
+{
+  "name": "apex-hrm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pino": "^9",
+    "pino-http": "^10",
+    "pino-pretty": "^13"
+  }
+}
